@@ -1,6 +1,6 @@
 function helloWorld() {
     document.getElementById('hello-world').textContent =
-      'Hello, World!'
+      'Hello feature 1'
   }
   helloWorld();
   
